@@ -38,7 +38,10 @@ const Footer = () => {
           achieve your goals.
         </p>
         <div className="flex flex-col lg:flex-row justify-between lg:w-1/2">
-          <a href="mailto:dev.mohit.chauhan@gmail.com" className="mb-4 md:mb-0">
+          <a
+            href="mailto:ravi.chauhandeveloper96@gmail.com"
+            className="mb-4 md:mb-0"
+          >
             <MagicButton
               title="Let's get in touch"
               icon={<FaLocationArrow />}

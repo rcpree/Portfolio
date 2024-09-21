@@ -140,14 +140,14 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Developer - Collegedunia web pvt ltd.",
+    title: "Frontend Developer -Enphase web pvt ltd.",
     desc: "Developed Various website using ReactJS, NextJS",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "ReactJS Developer - Crownstack Technologies pvt ltd.",
+    title: "ReactJS Developer -  Technologies pvt ltd.",
     desc: "Designed and developed web app using ReactJS",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
